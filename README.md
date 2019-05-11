@@ -1,4 +1,4 @@
-# node-oracledb
+# node-oracledb (196MB)
 
 ## before build
 
