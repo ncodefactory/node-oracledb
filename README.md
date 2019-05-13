@@ -8,10 +8,12 @@ curl -sSL https://nodejs.org/dist/v10.15.3/node-v10.15.3-linux-x64.tar.xz | tar 
 ```
 ### get instant client into assets
 
+dwonload instantclient-basiclite-linux.x64-19.3.0.0.0dbru.zip file from:
+
 ```
-http://download.oracle.com/otn/linux/instantclient/193000/instantclient-basiclite-linux.x64-19.3.0.0.0dbru.zip
+https://www.oracle.com/technetwork/topics/linuxx86-64soft-092277.html
 ```
-unzip into assets/instantclient
+anmd unzip into assets/instantclient
 
 ## issues
 
